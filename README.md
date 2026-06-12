@@ -64,6 +64,10 @@ Developed a Java-based airline management application demonstrating object-orien
 ### 🔐 Automation Security System
 Created a security-focused automation solution to streamline workflows and improve operational efficiency.
 
+###🌐 ABSI Corporate Website
+
+Led the development and enhancement of a corporate business website for American Business Solutions Inc., delivering responsive web pages, modern UI/UX improvements, performance optimization, and professional branding solutions. Focused on creating a seamless user experience while ensuring cross-device compatibility and accessibility.
+
 ---
 
 
