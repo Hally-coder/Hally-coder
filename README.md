@@ -12,7 +12,6 @@ B.Tech Computer Science student at Delhi Technical Campus (IPU) passionate about
 - 💻 Focused on Python, AI, Cloud Computing, and Full Stack Development
 - 🤖 Building applications using LLMs, Generative AI, and Automation
 - 📊 Interested in Data Engineering and ETL Pipelines
-- 🏆 Participated in 12+ Hackathons with 3 Winning Finishes
 - 🌱 Currently strengthening Data Structures & Algorithms
 
 ---
@@ -67,6 +66,9 @@ Created a security-focused automation solution to streamline workflows and impro
 ###🌐 ABSI Corporate Website
 
 Led the development and enhancement of a corporate business website for American Business Solutions Inc., delivering responsive web pages, modern UI/UX improvements, performance optimization, and professional branding solutions. Focused on creating a seamless user experience while ensuring cross-device compatibility and accessibility.
+
+### 📈 S&P Market Intelligence Platform
+Built a production-style ETL pipeline that automates stock market data extraction, transformation, storage, and visualization, delivering real-time financial analytics through an interactive Streamlit dashboard.
 
 ---
 
