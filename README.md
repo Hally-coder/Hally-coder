@@ -1,92 +1,70 @@
 # Hi, I'm Devansh Bhargava 👋
 
-### 🐍 Python Developer | 🤖 AI Developer | ☁️ AWS Enthusiast
+### Python Developer | AI Developer | Full-Stack Builder | AWS Enthusiast
 
-B.Tech Computer Science student at Delhi Technical Campus (IPU) passionate about building AI-powered applications, scalable web platforms, and data-driven solutions.
+B.Tech Computer Science student at Delhi Technical Campus (IPU), building AI-powered applications, scalable web platforms, and data-driven solutions.
 
----
+## About me
 
-## 🚀 About Me
+- B.Tech CSE, 2024–2028
+- Focused on Python, AI, cloud computing, and full-stack development
+- Building applications with LLMs, generative AI, and automation
+- Interested in data engineering and ETL pipelines
+- Currently strengthening data structures and algorithms
 
-- 🎓 B.Tech CSE (2024–2028)
-- 💻 Focused on Python, AI, Cloud Computing, and Full Stack Development
-- 🤖 Building applications using LLMs, Generative AI, and Automation
-- 📊 Interested in Data Engineering and ETL Pipelines
-- 🌱 Currently strengthening Data Structures & Algorithms
+## Featured products
 
----
+### Clario — AI Personal Finance Coach
 
-## 💻 Technical Skills
+An AI-powered finance application that transforms spending activity into practical budgeting, forecasting, savings, and weekly coaching guidance.
 
-### Programming Languages
-- Python
-- Java
-- JavaScript
-- TypeScript
-- SQL
+[View the public Clario showcase](projects/clario/README.md)
 
-### AI & Data
-- Generative AI
-- LLM Applications
-- REST APIs
-- Pandas
-- NumPy
-- ETL Pipelines
-- Data Processing
+> Product showcase is public; production source code remains private.
 
-### Web Development
-- HTML
-- CSS
-- React
-- Node.js
+### MockMate — AI Interview Platform
 
-### Cloud & Tools
-- AWS
-- Git
-- GitHub
-- VS Code
-  
+A structured AI interview platform for candidate invitations, timed interviews, integrity monitoring, automated evaluation, and recruiter reports.
 
----
+[View the public MockMate showcase](projects/mockmate/README.md) · [Live website](https://mockmate-site.vercel.app) · [Product demo](https://mockmate-ai-tau.vercel.app)
 
-## 📌 Featured Projects
+> Product showcase is public; production source code remains private.
 
-### 🤖 AI Interview Platform
-Built an AI-powered mock interview platform using TypeScript, Gemini API, SQL, AWS, and Vercel with authentication and intelligent candidate evaluation.
+## Other projects
 
-### 📊 Ecommerce ETL Pipeline
-Designed and implemented a complete ETL pipeline for extracting, transforming, and loading ecommerce datasets for analytics workflows.
+### S&P Market Intelligence Platform
 
-### ✈️ Airways Management System
-Developed a Java-based airline management application demonstrating object-oriented design and database integration.
+A production-style ETL pipeline that automates stock-market data extraction, transformation, storage, and visualization through an interactive analytics dashboard.
 
-### 🔐 Automation Security System
-Created a security-focused automation solution to streamline workflows and improve operational efficiency.
+### Ecommerce ETL Pipeline
 
-###🌐 ABSI Corporate Website
+A complete extraction, transformation, and loading pipeline for ecommerce datasets and analytics workflows.
 
-Led the development and enhancement of a corporate business website for American Business Solutions Inc., delivering responsive web pages, modern UI/UX improvements, performance optimization, and professional branding solutions. Focused on creating a seamless user experience while ensuring cross-device compatibility and accessibility.
+### Airways Management System
 
-### 📈 S&P Market Intelligence Platform
-Built a production-style ETL pipeline that automates stock market data extraction, transformation, storage, and visualization, delivering real-time financial analytics through an interactive Streamlit dashboard.
+A Java-based airline-management application demonstrating object-oriented design and database integration.
 
----
+### Automation Security System
 
+A security-focused automation solution designed to streamline workflows and improve operational efficiency.
 
----
+### ABSI Corporate Website
 
-## 🎯 Current Focus
+Responsive corporate web development with modern UI/UX, performance optimization, accessibility, and cross-device compatibility.
 
-- Data Structures & Algorithms
-- Artificial Intelligence & LLMs
-- AWS Cloud Technologies
-- Full Stack Development
-- Open Source Contributions
+## Technical skills
 
----
+- **Languages:** Python, Java, JavaScript, TypeScript, SQL
+- **AI and data:** Generative AI, LLM applications, REST APIs, Pandas, NumPy, ETL pipelines
+- **Web:** HTML, CSS, React, Node.js, Next.js
+- **Cloud and tools:** AWS, Git, GitHub, Vercel, VS Code
 
-## 📫 Connect With Me
+## Current focus
 
-📧 Email: devansh04356@gmail.com
+- Data structures and algorithms
+- Artificial intelligence and LLM applications
+- AWS cloud technologies
+- Full-stack product development
+- Open-source contributions
 
-⭐ *Always learning, building, and exploring new technologies.*
+⭐ Always learning, building, and exploring new technologies.
